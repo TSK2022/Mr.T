@@ -55,7 +55,7 @@
 		* `apt install git`
 		
 
-		* `git clone https://github.com/ekadanuarta/Mr.TSK.git`
+		* `git clone https://github.com/TSK2022/Mr.TSK.git`
 		
 
 		* `cd Mr.TSK`
