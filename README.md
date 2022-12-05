@@ -61,10 +61,10 @@
 		* `cd Mr.TSK`
 		
 
-		* `chmod +x install`
+		* `chmod +x install-tsk`
 		
 
-		* `sh install` if not work than use `./install`
+		* `sh install-tsk` if not work than use `./install-tsk`
 		
 
 		------------------------------------------------------------------------
