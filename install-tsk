@@ -1,6 +1,6 @@
 @@ -0,0 +1,80 @@
 		# Tool Name :- Mr.TSK
-		# Date :- 1/11/2017
+		# Date :- 05/12/2022
 		
 
 		if [ -e  /usr/lib/sudo ];then
